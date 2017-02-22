@@ -6,7 +6,7 @@
 	max-width: 880px;
 	position: absolute;
     left: 60px;
-    right: 60px
+    right: 60px;
 	width: auto;
 	top: 50%;
 }
@@ -36,7 +36,6 @@ li{
     padding-top: .8em;
     padding-bottom: .8em;
 	letter-spacing: .2em;
-
 }
 
 a{
