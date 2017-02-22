@@ -60,10 +60,11 @@ h2{
 
 .profilePic{
 	float: left;
-	margin: 10px 20px 10px 10px;
+	margin: 10px 20px 10px 20px;
 }
 
 .bio{
+	float: left;
 	font-family: 'Raleway', sans-serif;
 	line-height: 25px;
 	letter-spacing: .5px;
@@ -81,4 +82,21 @@ h2{
 
 .footerLinks2{
 	padding: 0;
+}
+
+.contactBlock{
+	font-family: 'Raleway', sans-serif;
+	line-height: 25px;
+}
+
+.contactText{
+	float: left;
+	padding: 0 10px 10px 10px;
+	margin:0 0 0 20px;
+}
+
+#contact_form{
+	padding: 0 10px 10px 30px;
+	float: left;
+	letter-spacing: .5px;
 }
