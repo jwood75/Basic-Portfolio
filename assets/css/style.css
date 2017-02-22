@@ -55,7 +55,14 @@ h2{
 	font-family: 'Raleway', sans-serif;
 	font-size: 40px;
 	letter-spacing: .5px;
-	margin: 30px 20px 20px 30px;
+	margin: 30px 20px 10px 30px;
+}
+
+.line{
+	height: .5px;
+	border-bottom: 2px solid #000;
+	width: 35%;
+	margin: 0 0 0 20px;
 }
 
 .profilePic{
@@ -98,5 +105,13 @@ h2{
 #contact_form{
 	padding: 0 10px 10px 30px;
 	float: left;
+	letter-spacing: .5px;
+}
+
+#submit_button{
+	font-family: 'Raleway'. sans-serif;
+	color: #fff;
+	background-color: #000;
+	border-style: none;
 	letter-spacing: .5px;
 }
